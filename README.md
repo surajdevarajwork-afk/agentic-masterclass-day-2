@@ -2,7 +2,7 @@
 
 The class files for **Day 2 of The Agentic Creator Masterclass** by Evolving AI: a few minutes of talking becomes your own short (45–90 s), made with an AI agent (Claude Code or Codex) on your own computer.
 
-Pick a famous interview from the class menu (or bring your own recording), then: transcribe it, cut one story from it, clean the sound, add a line in your own cloned voice, make a motion graphic in one of four styles, add B-roll and music, and assemble it. No Blender needed.
+Pick a famous interview from the class menu (or bring your own recording), then: transcribe it, cut one story from it, clean the sound, add a line in your own cloned voice, make a motion graphic in one of six styles, add B-roll and music, and assemble it. No Blender needed.
 
 One kit works on both Mac and Windows. Setup checks which one you're on.
 
@@ -12,7 +12,7 @@ Open **Claude Code** (Claude desktop app › Code › choose your home folder) o
 
 > Set me up for Day 2 of the Agentic Creator Masterclass. Download https://github.com/surajdevarajwork-afk/agentic-masterclass-day-2/releases/latest/download/agentic-masterclass-day-2.zip into my Downloads folder and unzip it into my home folder, so I get a folder called `agentic-creator`. If that folder already exists, keep my files and only add or update the Day 2 files. Then read `agentic-creator/START-HERE.md` and follow it with me, one step at a time.
 
-Your agent downloads the kit (about 60 MB), unzips it and walks you through setup. If it asks to use the internet, allow it.
+Your agent downloads the kit (about 75 MB), unzips it and walks you through setup. If it asks to use the internet, allow it.
 
 ## Rather click?
 
@@ -32,7 +32,7 @@ Your agent downloads the kit (about 60 MB), unzips it and walks you through setu
 
 - `day-2.md`: the workbook your agent tutors you through, one choice per chapter.
 - `setup-day-2.md`: setup your agent runs with you before class (70–120 minutes, mostly downloads).
-- `skills/`: get-clip, transcribe, clean-sound, voice-clone, motion, four motion styles (riso, minimal, ASCII, glass) and assemble.
+- `skills/`: get-clip, transcribe, clean-sound, voice-clone, motion, six motion styles (riso, minimal, ASCII, glass, pixel art, rough print) and assemble.
 - `insert/`, `broll/`: a ready motion graphic and nine free cutaway clips, so nobody gets stuck.
 - `videos/`: how to make your Gemini and Groq keys, and save keys on a Mac.
 
